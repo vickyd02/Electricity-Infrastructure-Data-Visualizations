@@ -1,4 +1,4 @@
-# EIA-860 Power Plant Data Visualization Suite
+# EIA-860 and EIA-923 Power Plant Data Visualizations
 
 This repository contains a collection of Python scripts designed to process and visualize the **US Energy Information Administration (EIA) Forms 860 and 923**. The analysis focuses on the lifecycle of the US power grid: from historical retirements and current performance to future stranded asset risks.
 
